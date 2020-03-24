@@ -1,0 +1,44 @@
+#Be a Hero
+
+Dia 1
+
+
+Dia 2
+	NodeJS & Express
+		Rotas e Recursos
+		Metodos HTTP
+		Tipos de parâmetros
+		
+	Utilização do Insomnia -> Permite enviar pedidos GET, POST, HEAD, etc, possibilitando o teste de rotas
+		Download e instalar 
+		
+		
+	Configuração do Nodemon
+		npm install nodemon -D
+		Alterar o packages.json
+			"scripts": {
+				"start": "nodemon src/index.js"
+			},
+		npm start -> para iniciar o servidor
+		
+	Diferencas entre DBs
+	
+	Consifuração de DB | knex como Query builder e SQLite DB
+		npm install knex --save e npm install sqlite3
+		
+	Entidades e funcionalidades
+		Entidades
+			ONG
+			Caso (incident)
+		
+		Funcionalidades
+			Login Ong
+			Logout Ong
+			Cadastro Ong
+			Cadastro de novos casos da Ong
+			Deletar casos da Ong
+			Listar casos espcíficos da Ong
+			Listar todos os cados
+			Entrar em contacto com a Ong
+		
+	
