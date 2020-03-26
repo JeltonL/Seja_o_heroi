@@ -51,5 +51,12 @@
 	Instalaçao do CORS
 		npm install cors
 		Importar cors no ./index.js
+		
+		
+	npm install react-icons
+	
+	
+	
+	01:08:58
 			
 		
